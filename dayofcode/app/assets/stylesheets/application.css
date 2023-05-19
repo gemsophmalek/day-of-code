@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+body {
+    background-color: rgb(141 158 201);
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+h3 {color: rgb(98, 255, 0)}
+p strong
+{border: 1px solid rgb(182, 82, 125);}
+img
+{border: 5px solid}
+a:-webkit-any-link {color: rgb(34, 0, 255)}
+
